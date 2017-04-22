@@ -14,4 +14,6 @@
 #This project just a simple digital process homework complete date on 2017/04/23 2:29 am
 #===========================notice================================#
 
+#把RGB2YUV YUV2RGB 從histogram.cpp 抽出來 
 #更改了 bmp.cpp中的 open_bmp save_bmp x y 的位置[x][y]-->[y][x] 讓yuv2rgb能擺入適當位置 跟[i*W+j]有關
+
